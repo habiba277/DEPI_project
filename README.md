@@ -1,2 +1,11 @@
 # DEPI_project
-An innovative Text-to-SQL system enabling non-technical users to query databases with natural language. Converts plain queries into optimized SQL, ensuring accessibility, efficiency, and accuracy. Features NLP-based query generation, error handling, and dynamic schema adaptation.
+title: Depi Graduation Project
+emoji: 🐨
+colorFrom: red
+colorTo: gray
+sdk: gradio
+sdk_version: 5.1.0
+app_file: app.py
+pinned: false
+license: apache-2.0
+short_description: AI Data Analyst using text-to-sql
